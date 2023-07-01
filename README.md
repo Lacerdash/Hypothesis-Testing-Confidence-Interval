@@ -6,13 +6,12 @@ Using scipy.stats `t`, `ttest_ind` and `pearsonr` for performing Hypothesis test
 
 This repository contains a Jupyter Notebook named [Exploratory Analysis.ipynb](https://github.com/Lacerdash/Hypothesis-Testing-C.I/blob/main/Exploratory%20Analysis.ipynb) that focuses on:
 
-- *Descriptive statistic (plots, descriptive statistics)*
-- *Inferencial Statistic (Hypothesis Testing and Confidence Intervals)*
+- **Descriptive statistic** (plots, descriptive statistics)
+- **Inferencial Statistic** (Hypothesis Testing and Confidence Intervals)
 
 The notebook explores various concepts and techniques related to hypothesis testing and confidence intervals. It covers topics such as:
 
-- One-sample, two-sample, and paired t-tests
-- Z-tests
+- two-sample Z-tests
 - Confidence intervals estimation
 - Hypothesis testing for correlation
 - Interpreting p-values and making conclusions
