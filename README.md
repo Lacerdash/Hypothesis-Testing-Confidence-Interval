@@ -1,21 +1,28 @@
-# Nested CV -> Hyperparameter Tuning and Model Selection
+# Hypothesis Testing and Confidence Intervals
 
-Using scikit-learn `RandomizedSearchCV` and `cross_val_score` to create a Nested CV loop (model selection and hyperparameter tuning).
+Using scipy.stats `t`, `ttest_ind` and `pearsonr` for performing Hypothesis testing and Building Confidence Intervals.
 
-![Nested_CV](Nested_CV.png?raw=true#vitrinedev)
+## Description
 
-## Data
+This repository contains a Jupyter Notebook named [Exploratory Analysis.ipynb](https://github.com/Lacerdash/Hypothesis-Testing-C.I/blob/main/Exploratory%20Analysis.ipynb) that focuses on:
 
-The data used in the notebook, `Customer-Churn-Records.csv` can be found in [kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn).
+- *Descriptive statistic (plots, descriptive statistics)*
+- *Inferencial Statistic (Hypothesis Testing and Confidence Intervals)*
 
-## More information about Nested CV
+The notebook explores various concepts and techniques related to hypothesis testing and confidence intervals. It covers topics such as:
 
-- [What is nested cross-validation for Machine Learning](https://www.youtube.com/watch?v=OEOOZxld_Cw)
-- [Nested Cross-Validation for Machine Learning with Python](https://machinelearningmastery.com/nested-cross-validation-for-machine-learning-with-python/)
-- **[My notes about CV and Nested CV](https://lacerdash.notion.site/CV-and-Nested-CV-38ed644da89c4faca445dc17e496e204?pvs=4)**
+- One-sample, two-sample, and paired t-tests
+- Z-tests
+- Confidence intervals estimation
+- Hypothesis testing for correlation
+- Interpreting p-values and making conclusions
 
-## Sckit-learn Documentation
+### scipy.stats documentation
 
-- [RandomizedSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html)
-- [cross_val_score](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)
+* [t](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.t.html)
+* [ttest_ind](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
+* [pearsonr](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html)
 
+**My Notes**
+
+* [Notion notes](https://lacerdash.notion.site/Statistic-Intro-c107db9303194922bd9eedc5551ff240?pvs=4)
