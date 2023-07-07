@@ -6,10 +6,10 @@ This repository provides resources and code examples related to Hypothesis Testi
 
 The repository is organized into the following folders:
 
-- [Two-sample t-test:](https://github.com/Lacerdash/Hypothesis-Testing-C.I/blob/main/Exploratory%20Analysis.ipynb)
+- [Two-sample t-test:](https://github.com/Lacerdash/Hypothesis-Testing-C.I/tree/main/Two-sample%20t-test)
   - **Descriptive statistic:** Exploratory analysis with plots and summary statistics.
   - **Inferencial Statistic:** Hypothesis Testing and Confidence Intervals.
-- [Bootstrapping X two-sample t-test:](https://github.com/Lacerdash/Hypothesis-Testing-C.I/blob/main/Exploratory%20Analysis.ipynb)
+- [Bootstrapping X two-sample t-test:](https://github.com/Lacerdash/Hypothesis-Testing-C.I/tree/main/Bootstrapping)
   - **When to use Bootstrap Approach:** Understanding the situations where bootstrapping is applicable.
   - **Bootstrap Hypothesis Testing vs. Two-sample t-test:** Comparing and contrasting the two approaches.
   - **Bootstrap for Building Confidence Intervals:** Using bootstrapping to construct confidence intervals.
