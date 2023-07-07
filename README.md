@@ -1,27 +1,21 @@
 # Hypothesis Testing and Confidence Intervals
 
-Using scipy.stats `t`, `ttest_ind` and `pearsonr` for performing Hypothesis testing and Building Confidence Intervals.
+This repository provides resources and code examples related to Hypothesis Testing and Confidence Intervals using various techniques, including two-sample t-test and bootstrapping.
 
 ## Description
 
-This repository contains a Jupyter Notebook named [Exploratory Analysis.ipynb](https://github.com/Lacerdash/Hypothesis-Testing-C.I/blob/main/Exploratory%20Analysis.ipynb) that focuses on:
+The repository is organized into the following folders:
 
-- **Descriptive statistic** (plots, descriptive statistics)
-- **Inferencial Statistic** (Hypothesis Testing and Confidence Intervals)
+- [Two-sample t-test:](https://github.com/Lacerdash/Hypothesis-Testing-C.I/blob/main/Exploratory%20Analysis.ipynb)
+  - **Descriptive statistic:** Exploratory analysis with plots and summary statistics.
+  - **Inferencial Statistic:** Hypothesis Testing and Confidence Intervals.
+- [Bootstrapping X two-sample t-test:](https://github.com/Lacerdash/Hypothesis-Testing-C.I/blob/main/Exploratory%20Analysis.ipynb)
+  - **When to use Bootstrap Approach:** Understanding the situations where bootstrapping is applicable.
+  - **Bootstrap Hypothesis Testing vs. Two-sample t-test:** Comparing and contrasting the two approaches.
+  - **Bootstrap for Building Confidence Intervals:** Using bootstrapping to construct confidence intervals.
 
-The notebook explores various concepts and techniques related to hypothesis testing and confidence intervals. It covers topics such as:
+Additionally, the repository includes a curated playlist on YouTube that covers these statistical concepts:
 
-- two-sample Z-tests
-- Confidence intervals estimation
-- Hypothesis testing for correlation
-- Interpreting p-values and making conclusions
+- [MarinStatsLectures-R Programming & Statistics](https://www.youtube.com/watch?v=rJ3AZCQuiLw&list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa&index=41)
 
-### scipy.stats documentation
-
-* [t](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.t.html)
-* [ttest_ind](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
-* [pearsonr](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html)
-
-**My Notes**
-
-* [Notion notes](https://lacerdash.notion.site/Statistic-Intro-c107db9303194922bd9eedc5551ff240?pvs=4)
+Feel free to explore the code examples and utilize the resources provided to enhance your understanding of hypothesis testing and confidence intervals.
