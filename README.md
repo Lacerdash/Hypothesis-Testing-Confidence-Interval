@@ -6,14 +6,14 @@ This repository provides resources and code examples related to Hypothesis Testi
 
 The repository is organized into the following folders:
 
-- [Two-sample t-test:](https://github.com/Lacerdash/Hypothesis-Testing-C.I/tree/main/Two-sample%20t-test)
+- [Two-sample t-test:](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/tree/main/Two-sample%20t-test)
   - **Descriptive statistic:** Exploratory analysis with plots and summary statistics.
   - **Inferencial Statistic:** Hypothesis Testing and Confidence Intervals.
-- [Bootstrapping X two-sample t-test:](https://github.com/Lacerdash/Hypothesis-Testing-C.I/tree/main/Bootstrapping)
+- [Bootstrapping X two-sample t-test:](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/tree/main/Bootstrapping%20X%20two-sample%20t-test)
   - **When to use Bootstrap Approach** 
   - **Bootstrap Hypothesis Testing vs. Two-sample t-test**
   - **Bootstrap for Building Confidence Intervals** 
-- [Permutations:](https://github.com/Lacerdash/Hypothesis-Testing-C.I/tree/main/Permutation)
+- [Permutations:](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/tree/main/Permuatation%20Hypohesis%20Testing)
   - **When to use Permutation Approach** 
   - **Permutation for Hypothesis Testing**
 

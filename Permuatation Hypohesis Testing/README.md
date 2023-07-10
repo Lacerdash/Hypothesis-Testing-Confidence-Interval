@@ -4,7 +4,7 @@ Using ``numpy`` for performing Bootstrapping for Hypothesis testing and Building
 
 ## Description
 
-This repository contains a Jupyter Notebook named [Permutation.ipynb](https://github.com/Lacerdash/Permuatation-Hypohesis-Testing/blob/main/Bootstrapping%20X%20two-sample%20t-test/Bootstrapping%20X%20two-sample%20t-test.ipynb) that focuses on:
+This repository contains a Jupyter Notebook named [Permutation.ipynb](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/blob/main/Permuatation%20Hypohesis%20Testing/Permutation.ipynb) that focuses on:
 
 - **When to use Permutation approach**
 - **Drawbacks of Permutation**
