@@ -1,6 +1,6 @@
 # Hypothesis Testing and Confidence Intervals
 
-This repository provides resources and code examples related to Hypothesis Testing and Confidence Intervals using various techniques, including two-sample t-test and bootstrapping.
+This repository provides resources and code examples related to Hypothesis Testing and Confidence Intervals using various techniques, including ``two-sample t-test`` and ``bootstrapping``.
 
 ## Description
 
@@ -10,9 +10,12 @@ The repository is organized into the following folders:
   - **Descriptive statistic:** Exploratory analysis with plots and summary statistics.
   - **Inferencial Statistic:** Hypothesis Testing and Confidence Intervals.
 - [Bootstrapping X two-sample t-test:](https://github.com/Lacerdash/Hypothesis-Testing-C.I/tree/main/Bootstrapping)
-  - **When to use Bootstrap Approach:** Understanding the situations where bootstrapping is applicable.
-  - **Bootstrap Hypothesis Testing vs. Two-sample t-test:** Comparing and contrasting the two approaches.
-  - **Bootstrap for Building Confidence Intervals:** Using bootstrapping to construct confidence intervals.
+  - **When to use Bootstrap Approach** 
+  - **Bootstrap Hypothesis Testing vs. Two-sample t-test**
+  - **Bootstrap for Building Confidence Intervals** 
+- [Permutations:](https://github.com/Lacerdash/Hypothesis-Testing-C.I/tree/main/Permutation)
+  - **When to use Permutation Approach** 
+  - **Permutation for Hypothesis Testing**
 
 Additionally, the repository includes a curated playlist on YouTube that covers these statistical concepts:
 

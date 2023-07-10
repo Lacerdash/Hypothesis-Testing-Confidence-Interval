@@ -4,7 +4,7 @@ Using scipy.stats `t`, `ttest_ind` and `pearsonr` for performing Hypothesis test
 
 ## Description
 
-This repository contains a Jupyter Notebook named [Exploratory Analysis.ipynb](https://github.com/Lacerdash/Hypothesis-Testing-C.I/blob/main/Exploratory%20Analysis.ipynb) that focuses on:
+This repository contains a Jupyter Notebook named [Exploratory Analysis.ipynb](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/blob/main/Two-sample%20t-test/Exploratory%20Analysis.ipynb) that focuses on:
 
 - **Descriptive statistic** (plots, descriptive statistics)
 - **Inferencial Statistic** (Hypothesis Testing and Confidence Intervals)
