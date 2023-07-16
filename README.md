@@ -16,7 +16,7 @@ The repository is organized into the following folders:
 - [Permutations:](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/tree/main/Permuatation%20Hypohesis%20Testing)
   - **Permutation for Hypothesis Testing**
   - **When to use Permutation Approach** 
-- [Wilcoxon Tests:](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/tree/main/Wilcoxon%20Test)
+- [Wilcoxon Tests:](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/tree/main/Wilcoxon%20Tests)
   - **Wilcoxon Signed-Rank Test and Wilcoxon Rank-Sum Test**
   - **When to use Wilcoxon Tests**
 - [Anova]() Still studying it

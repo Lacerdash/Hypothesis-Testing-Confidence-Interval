@@ -4,7 +4,7 @@ Using ``wilcoxon`` and ``ranksums`` from **scipy.stats** for performing Wilcoxon
 
 ## Content
 
-Our main resource is the Jupyter Notebook named [Wilcoxon Tests.ipynb](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/blob/main/Wilcoxon%20Test/Wilcoxon%20Tests.ipynb), which includes:
+Our main resource is the Jupyter Notebook named [Wilcoxon Tests.ipynb](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/blob/main/Wilcoxon%20Tests/Wilcoxon%20Tests.ipynb), which includes:
 
 - Detailed explanations of the **Wilcoxon Signed-Rank Test** and **Wilcoxon Rank-Sum Test**.
 - Step-by-step guidance on how to perform these tests in Python.
