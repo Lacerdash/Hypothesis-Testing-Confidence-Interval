@@ -1,18 +1,18 @@
-# Hypothesis Testing and Confidence Intervals
+# Two-sample t-test for Hypothesis Testing and Confidence Intervals
 
 Using scipy.stats `t`, `ttest_ind` and `pearsonr` for performing Hypothesis testing and Building Confidence Intervals.
 
-## Description
+## Content
 
-This repository contains a Jupyter Notebook named [Exploratory Analysis.ipynb](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/blob/main/Two-sample%20t-test/Exploratory%20Analysis.ipynb) that focuses on:
+Our main resource is the Jupyter Notebook named  [Exploratory Analysis.ipynb](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/blob/main/Two-sample%20t-test/Exploratory%20Analysis.ipynb), which includes:
 
 - **Descriptive statistic** (plots, descriptive statistics)
 - **Inferencial Statistic** (Hypothesis Testing and Confidence Intervals)
 
-The notebook explores various concepts and techniques related to hypothesis testing and confidence intervals. It covers topics such as:
+The notebook explores various concepts and techniques, covering topics such as:
 
-- two-sample Z-tests
-- Confidence intervals estimation
+- Execution of Two-Sample t-tests
+- Estimation of Confidence intervals 
 - Hypothesis testing for correlation
 - Interpreting p-values and making conclusions
 
@@ -22,6 +22,6 @@ The notebook explores various concepts and techniques related to hypothesis test
 * [ttest_ind](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
 * [pearsonr](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.pearsonr.html)
 
-**My Notes**
+**Personal Notes**
 
 * [Notion notes](https://lacerdash.notion.site/Statistic-Intro-c107db9303194922bd9eedc5551ff240?pvs=4)

@@ -1,6 +1,6 @@
 # Hypothesis Testing and Confidence Intervals
 
-This repository provides resources and code examples related to Hypothesis Testing and Confidence Intervals using various techniques, including ``two-sample t-test`` and ``bootstrapping``.
+This repository provides resources and code examples related to Hypothesis Testing and Confidence Intervals using various techniques, including ``two-sample t-test``, ``bootstrapping``, ``permuation`` and ``ANOVA``.
 
 ## Description
 
@@ -16,6 +16,8 @@ The repository is organized into the following folders:
 - [Permutations:](https://github.com/Lacerdash/Hypothesis-Testing-Confidence-Interval/tree/main/Permuatation%20Hypohesis%20Testing)
   - **When to use Permutation Approach** 
   - **Permutation for Hypothesis Testing**
+- [Anova]()
+  - One Way Anova (ANOVA)
 
 Additionally, the repository includes a curated playlist on YouTube that covers these statistical concepts:
 
