@@ -17,3 +17,9 @@ This notebook aims to:
 
 - Demonstrate the use of non-parametric approaches to hypothesis testing, specifically in scenarios where the assumptions for parametric tests (like paired t-test and two-sample t-test) are not met.
 - Provide a hands-on approach to learning by pratical examples
+
+### scipy.stats documentation
+
+* [wilcoxon](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.wilcoxon.html)
+* [ranksums](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ranksums.html)
+* [mannwhitneyu](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.mannwhitneyu.html#scipy.stats.mannwhitneyu)
